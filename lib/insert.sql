@@ -1,1 +1,2 @@
-INSERT into bears 
+INSERT into bears (name)
+  VALUES 
