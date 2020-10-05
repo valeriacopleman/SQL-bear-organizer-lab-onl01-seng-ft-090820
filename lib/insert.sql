@@ -1,2 +1,2 @@
 INSERT into bears (name)
-  VALUES 
+  VALUES ("MR. CHOCOLATE")
