@@ -1,5 +1,5 @@
-INSERT into bears (name)
+INSERT INTO bears (name)
   VALUES ("Mr. Chocolate")
-INSERT into 
+INSERT INTO bears 
   VALUES ("Rowdy")
   
